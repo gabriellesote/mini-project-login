@@ -39,7 +39,7 @@ section#login {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    
 
     background-color: #ffffff;
     width: 270px;
@@ -48,6 +48,7 @@ section#login {
     border-radius: 20px;
     box-shadow: 0px 0px 10px #1b1300a1;
 
+    transform: translate(-50%, -50%);
     transition: width .3s, height .3s;
     transition-timing-function: ease;
 }
@@ -131,12 +132,14 @@ form>a.botao {
     margin-top: 5px;
     background-color: #ffffff;
     border: 1px solid #FF8086;
+    padding: 5px;
 
     color: #FF8086;
     font-weight: bold;
     text-align: center;
     font-size: 1em;
     text-decoration: none;
+    
 }
 
 form>a.botao:hover {
