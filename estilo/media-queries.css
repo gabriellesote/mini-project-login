@@ -1,4 +1,6 @@
 @charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Lisu+Bosa:wght@700&display=swap');
+
 
 /* 
 Typical device Breakpoints
@@ -13,11 +15,12 @@ Grandes telas: acima de 1200px
 /* === Tablet === */
 @media screen and (min-width:768px) and (max-width: 992px) {
     body {
-        background-image: linear-gradient(to top, #ff80868c, #ffcf60cb);
+        background-image: linear-gradient(to top, #FFA56C, #ffcf60cb);
     }
 
     section#login {
         width: 80vw;
+        height: 400px;
     }
 
     section#login>div#imagem {
@@ -40,11 +43,12 @@ Grandes telas: acima de 1200px
 /* === Desktop === */
 @media screen and (min-width: 992px) {
     body {
-        background-image: linear-gradient(to top, #ff80868c, #ffcf60cb);
+        background-image: linear-gradient(to top,  #FFA56C, #ffcf60cb);
     }
 
     section#login {
         width: 950px;
+        height: 500px;
     }
 
     section#login>div#imagem {
@@ -61,7 +65,7 @@ Grandes telas: acima de 1200px
         font-size: 2em;
     }
     div#formulario > p{
-       font-size: 1.2em;
+       font-size: 1em;
        
     }
     form > .campo > label{
