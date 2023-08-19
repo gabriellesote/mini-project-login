@@ -12,7 +12,7 @@ Programa exclusivo e gratuito, promovido pelo Curso em Video para ensino de tecn
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://github.com/maykbrito/devlinks/blob/main/.github/preview.jpg" width="100%">
+  <img alt="projeto sunflower" src="https://github.com/gabriellesote/readmes/blob/main/sunflower-rm.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
