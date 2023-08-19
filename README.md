@@ -39,9 +39,11 @@ As ferramentas aplicadas neste site foram:
 - Mobile First
 - Formulários
 
-## :memo: Licença
+## :memo: Créditos
 
-Esse projeto está sob a licença MIT.
+- Esse projeto está sob a licença MIT.
+
+- README: Hero Patterns for Figma [by @tkmadeit](https://www.figma.com/@tkmadeit)
 
 ---
 
