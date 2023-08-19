@@ -1,4 +1,4 @@
-  <h1 align="center"> Projeto Login  </h1>
+  <h1 align="center">🌻 Projeto SunFLower Login 🌻</h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pelo Curso em Video para ensino de tecnologias WEB. <br/>
